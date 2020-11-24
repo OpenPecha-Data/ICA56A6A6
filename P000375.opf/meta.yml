@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29242
   title: འཛམ་གླིང་དུང་ཟླ་དཀར་བོ།
-  volume: ''
+  volume:
+    39bff082ad854352a966764b118520df:
+      image_group_id: I1KG23298
+      title: Volume 1 of 'dzam gling dung zla dkar bo/
+      volume_number: 1
+      total_pages: 314
   author: ''
+ebook_metadata:
+  title: འཛམ་གླིང་དུང་ཟླ་དཀར་བོ།
+  author: ''
+  sku: P000375
+  cover: cover.jpg
+  layers:
+  - pagination
